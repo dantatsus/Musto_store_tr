@@ -1,0 +1,33 @@
+/* Layout */
+
+body{background-color: darkgray;}
+
+.gap{
+    margin-right: 15px;
+}
+
+#baslik{
+    color: darkred;
+    font-size: 30px;
+}
+
+body{
+    text-align: center;
+}
+
+article{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    height: 400px;
+}
